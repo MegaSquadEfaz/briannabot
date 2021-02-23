@@ -406,5 +406,3 @@ You now own :money_with_wings: ${output.balance}`);
 const listener = app.listen(process.env.PORT, () => {
   console.log("Your app is listening on port " + listener.address().port);
 });
-
-client.login("ODEzNjAzMzcyMjM4MjQxODEz.YDRtLw.K_1-HxAzoVCm2ygYArZ0m8Frens");
